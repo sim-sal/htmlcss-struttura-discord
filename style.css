@@ -36,6 +36,11 @@
     flex-direction: row-reverse;
 }
 
+.column{
+    flex-direction: column;
+    justify-content: center;
+}
+
 img{
     width: 80%;
     margin: 50px;
@@ -44,6 +49,15 @@ img{
 .text{
     width: 20%;
 }
+
+.column img{
+    width: 80%;
+}
+
+.column .text{
+    width: 50%;
+}
+
 
 
 
@@ -90,4 +104,9 @@ header{
 
 .reverse{
     background-color: rgb(223, 175, 175);
+}
+
+.column{
+    background-color: rgb(223, 175, 175);
+    height: 800px;
 }
