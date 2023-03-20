@@ -32,8 +32,13 @@
     padding: 20px;
 }
 
+.reverse{
+    flex-direction: row-reverse;
+}
+
 img{
     width: 80%;
+    margin: 50px;
 }
 
 .text{
@@ -81,4 +86,8 @@ header{
 .flex-container{
     background-color: rgb(207, 112, 112);
     height: 500px;
+}
+
+.reverse{
+    background-color: rgb(223, 175, 175);
 }
