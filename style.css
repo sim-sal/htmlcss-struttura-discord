@@ -4,3 +4,87 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.header{
+    
+}
+
+.main-nav{
+    width: 80%;
+    margin: auto;
+}
+
+#link-navigazione{
+    width: 80%;
+}
+
+.jumbotron{
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* regole DEBUG */
+header{
+    background-color: rgb(37,94,233);
+    min-height: 500px;
+}
+
+.main-nav{
+    background-color: rgb(0, 0, 161);
+    min-height: 80px;
+}
+
+.jumbotron{
+    background-color: rgb(139, 168, 240);
+    min-height: 250px;
+}
