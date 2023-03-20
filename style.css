@@ -6,7 +6,7 @@
 }
 
 .header{
-    
+    margin-bottom: 30px;
 }
 
 .main-nav{
@@ -24,32 +24,21 @@
     margin-top: 5%;
 }
 
+.flex-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
 
+img{
+    width: 80%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.text{
+    width: 20%;
+}
 
 
 
@@ -87,4 +76,9 @@ header{
 .jumbotron{
     background-color: rgb(139, 168, 240);
     min-height: 250px;
+}
+
+.flex-container{
+    background-color: rgb(207, 112, 112);
+    height: 500px;
 }
