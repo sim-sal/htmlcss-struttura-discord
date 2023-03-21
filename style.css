@@ -41,17 +41,21 @@
     justify-content: center;
 }
 
-img{
+.imgage{
     width: 80%;
     margin: 50px;
 }
 
-.text{
-    width: 20%;
+.space{
+    width: 5%;
 }
 
-.column img{
-    width: 80%;
+.space-column{
+    height: 5%;
+}
+
+.text{
+    width: 20%;
 }
 
 .column .text{
